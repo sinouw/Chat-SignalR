@@ -1,0 +1,14 @@
+E:\Work\JS\Angular\Project 9 SignalR chat group\WebApplication2\bin\Debug\netcoreapp2.2\WebApplication2.deps.json
+E:\Work\JS\Angular\Project 9 SignalR chat group\WebApplication2\bin\Debug\netcoreapp2.2\WebApplication2.runtimeconfig.json
+E:\Work\JS\Angular\Project 9 SignalR chat group\WebApplication2\bin\Debug\netcoreapp2.2\WebApplication2.runtimeconfig.dev.json
+E:\Work\JS\Angular\Project 9 SignalR chat group\WebApplication2\bin\Debug\netcoreapp2.2\WebApplication2.dll
+E:\Work\JS\Angular\Project 9 SignalR chat group\WebApplication2\bin\Debug\netcoreapp2.2\WebApplication2.pdb
+E:\Work\JS\Angular\Project 9 SignalR chat group\WebApplication2\obj\Debug\netcoreapp2.2\WebApplication2.csprojAssemblyReference.cache
+E:\Work\JS\Angular\Project 9 SignalR chat group\WebApplication2\obj\Debug\netcoreapp2.2\WebApplication2.csproj.CoreCompileInputs.cache
+E:\Work\JS\Angular\Project 9 SignalR chat group\WebApplication2\obj\Debug\netcoreapp2.2\WebApplication2.RazorAssemblyInfo.cache
+E:\Work\JS\Angular\Project 9 SignalR chat group\WebApplication2\obj\Debug\netcoreapp2.2\WebApplication2.RazorAssemblyInfo.cs
+E:\Work\JS\Angular\Project 9 SignalR chat group\WebApplication2\obj\Debug\netcoreapp2.2\WebApplication2.AssemblyInfoInputs.cache
+E:\Work\JS\Angular\Project 9 SignalR chat group\WebApplication2\obj\Debug\netcoreapp2.2\WebApplication2.AssemblyInfo.cs
+E:\Work\JS\Angular\Project 9 SignalR chat group\WebApplication2\obj\Debug\netcoreapp2.2\WebApplication2.RazorTargetAssemblyInfo.cache
+E:\Work\JS\Angular\Project 9 SignalR chat group\WebApplication2\obj\Debug\netcoreapp2.2\WebApplication2.dll
+E:\Work\JS\Angular\Project 9 SignalR chat group\WebApplication2\obj\Debug\netcoreapp2.2\WebApplication2.pdb
